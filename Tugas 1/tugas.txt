@@ -44,3 +44,4 @@ Sebuah hotel ingin membuat sistem untuk mengelola reservasi kamar.
 •	Reservasi mencatat tanggal check-in, tanggal check-out, dan jumlah tamu.
 Tugas: Gambar ERD untuk sistem reservasi hotel ini, sertakan atribut pada setiap entitas dan relasinya.
 
+selamat mengerjakan
