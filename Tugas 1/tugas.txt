@@ -9,6 +9,12 @@ Aturan Pengerjaan
 DEADLINE (BATAS PENGUMPULAN)
 Senin, 18 Juni 2025 
 
+PETUNJUK PENGERJAAN TUGAS
+•   BUAT BRANCH BARU dengan nama kalian // git branch (nama_kalian)
+•   BUAT FOLDER BARU DI DALAM FOLDER TUGAS dengan nama kalian
+•   Simpan tugas kalian di dalam folder tersebut
+•   Beri message dengan nama tugas_praktek_1
+
 1. Sistem Perpustakaan Sekolah
 Sebuah sekolah memiliki sistem perpustakaan yang menyimpan data buku, anggota, dan peminjaman.
 •	Setiap buku memiliki ISBN, judul, pengarang, dan tahun terbit.
