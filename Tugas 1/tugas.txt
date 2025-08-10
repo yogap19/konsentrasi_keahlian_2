@@ -1,0 +1,46 @@
+
+Aturan Pengerjaan
+•	Penilaian didasarkan siapa yang mengumpulkan 
+•	Dikumpulkan melalui github
+•	Dikerjakan melalui website draw.io
+•	Hasil di ekspor ke bentuk png / jpg
+•	Diperbolehkan bekerja sama, mencontek, searching dimanapun, diperbolehkan menghubungi teman, kerabat, keluarga, leluhur, dll.
+
+DEADLINE (BATAS PENGUMPULAN)
+Senin, 18 Juni 2025 
+
+1. Sistem Perpustakaan Sekolah
+Sebuah sekolah memiliki sistem perpustakaan yang menyimpan data buku, anggota, dan peminjaman.
+•	Setiap buku memiliki ISBN, judul, pengarang, dan tahun terbit.
+•	Anggota perpustakaan dapat meminjam lebih dari satu buku.
+•	Data peminjaman mencatat tanggal pinjam, tanggal kembali, dan status pengembalian.
+Tugas: Buat ERD untuk sistem perpustakaan tersebut, sertakan entitas, atribut, dan relationship-nya.
+________________________________________
+2. Sistem Pemesanan Makanan Online
+Sebuah aplikasi food delivery mencatat data pelanggan, restoran, menu, dan pesanan.
+•	Pelanggan dapat memesan dari lebih dari satu restoran.
+•	Menu memiliki nama, harga, dan kategori.
+•	Pesanan memiliki informasi waktu pemesanan, status, dan total harga.
+Tugas: Buat ERD untuk menggambarkan sistem ini, lengkap dengan cardinality dan primary key setiap entitas.
+________________________________________
+3. Sistem Akademik SMK
+Sekolah mencatat data siswa, guru, kelas, dan nilai.
+•	Setiap siswa terdaftar di satu kelas.
+•	Guru dapat mengajar di lebih dari satu kelas.
+•	Nilai berisi informasi mata pelajaran, skor, dan tanggal ujian.
+Tugas: Gambar ERD yang merepresentasikan hubungan antar entitas pada sistem akademik tersebut.
+________________________________________
+4. Sistem Penjualan Toko Elektronik
+Toko elektronik menjual berbagai produk kepada pelanggan.
+•	Produk memiliki kode produk, nama, harga, dan stok.
+•	Setiap transaksi penjualan memiliki tanggal, total harga, dan metode pembayaran.
+•	Pelanggan dapat melakukan lebih dari satu transaksi.
+Tugas: Buat ERD untuk sistem penjualan ini dan jelaskan tipe relationship antar entitasnya.
+________________________________________
+5. Sistem Reservasi Hotel
+Sebuah hotel ingin membuat sistem untuk mengelola reservasi kamar.
+•	Tamu dapat memesan lebih dari satu kamar dalam satu reservasi.
+•	Kamar memiliki nomor kamar, tipe kamar, harga per malam, dan status.
+•	Reservasi mencatat tanggal check-in, tanggal check-out, dan jumlah tamu.
+Tugas: Gambar ERD untuk sistem reservasi hotel ini, sertakan atribut pada setiap entitas dan relasinya.
+
